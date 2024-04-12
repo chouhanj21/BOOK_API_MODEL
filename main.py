@@ -20,9 +20,15 @@ def insert_data_table(dbase,data):
             tuple_data.append(h)
     dbase.execute(f"INSERT INTO book_store VALUES ({placeholders})", tuple_data)
 
+
+
+
+#enter query manullay
+input_query=[x for x in input(f"what is  your query: ")]
+parameters=json.dumps(input_query)
 #database and api connections
 dbase=sqlite3.connect("database.db")
-r=requests.get("https://openlibrary.org/search.json?q=game+google")
+r=requests.get("https://openlibrary.org/search.json?q=game+google",parameters)
 data =r.json()
 mdata=json.dumps(data,indent=4)
 
