@@ -1,0 +1,2914 @@
+{
+    "numFound": 36,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL28815837W",
+            "type": "work",
+            "seed": [
+                "/books/OL39579600M",
+                "/works/OL28815837W",
+                "/authors/OL7498180A"
+            ],
+            "title": "Google SketchUp for Game Design",
+            "title_suggest": "Google SketchUp for Game Design",
+            "title_sort": "Google SketchUp for Game Design",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39579600M"
+            ],
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "isbn": [
+                "9781849691352",
+                "1849691355"
+            ],
+            "last_modified_i": 1663462652,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Packt Publishing, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7498180A"
+            ],
+            "author_name": [
+                "Robin de Jongh"
+            ],
+            "publisher_facet": [
+                "Packt Publishing, Limited"
+            ],
+            "_version_": 1767923308735496193,
+            "author_facet": [
+                "OL7498180A Robin de Jongh"
+            ]
+        },
+        {
+            "key": "/works/OL15979742W",
+            "type": "work",
+            "seed": [
+                "/books/OL39895215M",
+                "/books/OL29057787M",
+                "/books/OL24884822M",
+                "/books/OL39867163M",
+                "/books/OL29074250M",
+                "/works/OL15979742W",
+                "/subjects/statistical_services",
+                "/subjects/web_usage_mining",
+                "/subjects/internet_users",
+                "/subjects/google_website_optimizer",
+                "/subjects/google_analytics",
+                "/subjects/statistics",
+                "/subjects/data_processing",
+                "/subjects/computer_programs",
+                "/subjects/internet_searching",
+                "/subjects/google_adwords",
+                "/subjects/internet_marketing",
+                "/subjects/electronic_commerce",
+                "/subjects/internet_advertising",
+                "/subjects/web_site_development",
+                "/subjects/google",
+                "/authors/OL6954115A"
+            ],
+            "title": "Your Google game plan for success",
+            "title_sort": "Your Google game plan for success",
+            "title_suggest": "Your Google game plan for success",
+            "edition_count": 5,
+            "edition_key": [
+                "OL39895215M",
+                "OL29057787M",
+                "OL24884822M",
+                "OL39867163M",
+                "OL29074250M"
+            ],
+            "publish_date": [
+                "2011",
+                "2010"
+            ],
+            "publish_year": [
+                2011,
+                2010
+            ],
+            "first_publish_year": 2010,
+            "number_of_pages_median": 434,
+            "lccn": [
+                "2010932416"
+            ],
+            "publish_place": [
+                "Indianapolis, IN"
+            ],
+            "oclc": [
+                "567008125"
+            ],
+            "lcc": [
+                "TK-5105.88500000.G66 T45 2010",
+                "HF-5415.12650000"
+            ],
+            "ddc": [
+                "025.04252"
+            ],
+            "isbn": [
+                "9781118080535",
+                "111808053X",
+                "1282817485",
+                "9781282817487",
+                "9781118082089",
+                "0470940212",
+                "9780470641644",
+                "9780470940211",
+                "0470641649",
+                "1118082087"
+            ],
+            "last_modified_i": 1703025564,
+            "ebook_count_i": 0,
+            "ebook_access": "unclassified",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ia": [
+                "yourgooglegamepl00teix"
+            ],
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL24884822M",
+            "cover_i": 8736417,
+            "publisher": [
+                "Wiley & Sons, Incorporated, John",
+                "Wiley Pub."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6954115A"
+            ],
+            "author_name": [
+                "Joe Teixeira"
+            ],
+            "subject": [
+                "Statistical services",
+                "Web usage mining",
+                "Internet users",
+                "Google Website Optimizer",
+                "Google Analytics",
+                "Statistics",
+                "Data processing",
+                "Computer programs",
+                "Internet searching",
+                "Google AdWords",
+                "Internet marketing",
+                "Electronic commerce",
+                "Internet advertising",
+                "Web site development",
+                "Google"
+            ],
+            "publisher_facet": [
+                "Wiley & Sons, Incorporated, John",
+                "Wiley Pub."
+            ],
+            "subject_facet": [
+                "Computer programs",
+                "Data processing",
+                "Electronic commerce",
+                "Google",
+                "Google AdWords",
+                "Google Analytics",
+                "Google Website Optimizer",
+                "Internet advertising",
+                "Internet marketing",
+                "Internet searching",
+                "Internet users",
+                "Statistical services",
+                "Statistics",
+                "Web site development",
+                "Web usage mining"
+            ],
+            "_version_": 1785751774564450307,
+            "lcc_sort": "TK-5105.88500000.G66 T45 2010",
+            "author_facet": [
+                "OL6954115A Joe Teixeira"
+            ],
+            "subject_key": [
+                "computer_programs",
+                "data_processing",
+                "electronic_commerce",
+                "google",
+                "google_adwords",
+                "google_analytics",
+                "google_website_optimizer",
+                "internet_advertising",
+                "internet_marketing",
+                "internet_searching",
+                "internet_users",
+                "statistical_services",
+                "statistics",
+                "web_site_development",
+                "web_usage_mining"
+            ],
+            "ddc_sort": "025.04252"
+        },
+        {
+            "key": "/works/OL16938427W",
+            "type": "work",
+            "seed": [
+                "/books/OL25544199M",
+                "/works/OL16938427W",
+                "/subjects/computer_games",
+                "/subjects/design",
+                "/subjects/three-dimensional_imaging",
+                "/subjects/computer_games_design",
+                "/subjects/three-dimensional_display_systems",
+                "/subjects/sketchup",
+                "/authors/OL7201182A"
+            ],
+            "title": "Google SketchUp for game design",
+            "title_suggest": "Google SketchUp for game design",
+            "title_sort": "Google SketchUp for game design",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25544199M"
+            ],
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "publish_place": [
+                "Birmingham, UK"
+            ],
+            "oclc": [
+                "793359807"
+            ],
+            "lcc": [
+                "QA-0076.76000000.C672"
+            ],
+            "isbn": [
+                "1849691347",
+                "9781849691345"
+            ],
+            "last_modified_i": 1670909251,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "googlesketchupfo00jong"
+            ],
+            "ia_collection": [
+                "librarygenesis",
+                "printdisabled"
+            ],
+            "ia_collection_s": "librarygenesis;printdisabled",
+            "printdisabled_s": "OL25544199M",
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 1,
+            "ratings_count_4": 0,
+            "ratings_count_5": 0,
+            "ratings_average": 3.0,
+            "ratings_sortable": 2.1948824,
+            "ratings_count": 1,
+            "readinglog_count": 1,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "cover_edition_key": "OL25544199M",
+            "cover_i": 9537101,
+            "publisher": [
+                "Packt Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7201182A"
+            ],
+            "author_name": [
+                "Robin De Jongh"
+            ],
+            "subject": [
+                "Computer games",
+                "Design",
+                "Three-dimensional imaging",
+                "Computer games, design",
+                "Three-dimensional display systems",
+                "SketchUp"
+            ],
+            "publisher_facet": [
+                "Packt Publishing"
+            ],
+            "subject_facet": [
+                "Computer games",
+                "Computer games, design",
+                "Design",
+                "SketchUp",
+                "Three-dimensional display systems",
+                "Three-dimensional imaging"
+            ],
+            "_version_": 1767901560871845889,
+            "lcc_sort": "QA-0076.76000000.C672",
+            "author_facet": [
+                "OL7201182A Robin De Jongh"
+            ],
+            "subject_key": [
+                "computer_games",
+                "computer_games_design",
+                "design",
+                "sketchup",
+                "three-dimensional_display_systems",
+                "three-dimensional_imaging"
+            ]
+        },
+        {
+            "key": "/works/OL20168726W",
+            "type": "work",
+            "seed": [
+                "/books/OL27351519M",
+                "/books/OL35557449M",
+                "/books/OL35567612M",
+                "/works/OL20168726W",
+                "/subjects/computer_games_programming",
+                "/subjects/virtual_reality",
+                "/authors/OL7640902A"
+            ],
+            "title": "Google Daydream VR Cookbook",
+            "title_suggest": "Google Daydream VR Cookbook",
+            "title_sort": "Google Daydream VR Cookbook",
+            "edition_count": 3,
+            "edition_key": [
+                "OL27351519M",
+                "OL35557449M",
+                "OL35567612M"
+            ],
+            "publish_date": [
+                "2021",
+                "Oct 21, 2018"
+            ],
+            "publish_year": [
+                2021,
+                2018
+            ],
+            "first_publish_year": 2018,
+            "number_of_pages_median": 384,
+            "lcc": [
+                "QA-0076.76000000.C672"
+            ],
+            "isbn": [
+                "9780134845555",
+                "013484551X",
+                "0134845552",
+                "0134845560",
+                "9780134845517",
+                "9780134845562"
+            ],
+            "last_modified_i": 1670503185,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27351519M",
+            "cover_i": 8814990,
+            "publisher": [
+                "Addison-Wesley Professional",
+                "Pearson Education, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7640902A"
+            ],
+            "author_name": [
+                "Sam Keene"
+            ],
+            "subject": [
+                "Computer games, programming",
+                "Virtual reality"
+            ],
+            "id_amazon": [
+                "013484551X"
+            ],
+            "publisher_facet": [
+                "Addison-Wesley Professional",
+                "Pearson Education, Limited"
+            ],
+            "subject_facet": [
+                "Computer games, programming",
+                "Virtual reality"
+            ],
+            "_version_": 1767908121719603202,
+            "lcc_sort": "QA-0076.76000000.C672",
+            "author_facet": [
+                "OL7640902A Sam Keene"
+            ],
+            "subject_key": [
+                "computer_games_programming",
+                "virtual_reality"
+            ]
+        },
+        {
+            "key": "/works/OL35149128W",
+            "type": "work",
+            "seed": [
+                "/books/OL47531789M",
+                "/works/OL35149128W",
+                "/authors/OL12606599A",
+                "/authors/OL12285285A",
+                "/authors/OL12606596A",
+                "/authors/OL1356346A"
+            ],
+            "title": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "title_suggest": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "title_sort": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47531789M"
+            ],
+            "publish_date": [
+                "Sep 06, 2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 532,
+            "isbn": [
+                "9788426725660",
+                "842672566X"
+            ],
+            "last_modified_i": 1681860185,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47531789M",
+            "cover_i": 14148656,
+            "publisher": [
+                "Marcombo"
+            ],
+            "author_key": [
+                "OL12606599A",
+                "OL12285285A",
+                "OL12606596A",
+                "OL1356346A"
+            ],
+            "author_name": [
+                "JESUS TOM\u00c1S GIRON\u00c9S",
+                "VICENTE CARBONELL",
+                "Antonio Albiol",
+                "Gonzalo Puga"
+            ],
+            "publisher_facet": [
+                "Marcombo"
+            ],
+            "_version_": 1767933205511405569,
+            "author_facet": [
+                "OL12285285A VICENTE CARBONELL",
+                "OL12606596A Antonio Albiol",
+                "OL12606599A JESUS TOM\u00c1S GIRON\u00c9S",
+                "OL1356346A Gonzalo Puga"
+            ]
+        },
+        {
+            "key": "/works/OL35149129W",
+            "type": "work",
+            "seed": [
+                "/books/OL47531790M",
+                "/works/OL35149129W",
+                "/authors/OL12606599A",
+                "/authors/OL12285285A",
+                "/authors/OL12606596A",
+                "/authors/OL1356346A"
+            ],
+            "title": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "title_suggest": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "title_sort": "Visi\u00f3n Artificial, Google Play Games, Android Wear, TV y Auto",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47531790M"
+            ],
+            "publish_date": [
+                "Sep 06, 2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 532,
+            "isbn": [
+                "9788426725660",
+                "842672566X"
+            ],
+            "last_modified_i": 1681860185,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47531790M",
+            "cover_i": 14148657,
+            "publisher": [
+                "Marcombo"
+            ],
+            "author_key": [
+                "OL12606599A",
+                "OL12285285A",
+                "OL12606596A",
+                "OL1356346A"
+            ],
+            "author_name": [
+                "JESUS TOM\u00c1S GIRON\u00c9S",
+                "VICENTE CARBONELL",
+                "Antonio Albiol",
+                "Gonzalo Puga"
+            ],
+            "publisher_facet": [
+                "Marcombo"
+            ],
+            "_version_": 1767933205699100673,
+            "author_facet": [
+                "OL12285285A VICENTE CARBONELL",
+                "OL12606596A Antonio Albiol",
+                "OL12606599A JESUS TOM\u00c1S GIRON\u00c9S",
+                "OL1356346A Gonzalo Puga"
+            ]
+        },
+        {
+            "key": "/works/OL24213867W",
+            "type": "work",
+            "seed": [
+                "/books/OL31997787M",
+                "/works/OL24213867W",
+                "/subjects/business",
+                "/authors/OL1575829A"
+            ],
+            "title": "Game of Sales",
+            "title_suggest": "Game of Sales",
+            "title_sort": "Game of Sales",
+            "edition_count": 1,
+            "edition_key": [
+                "OL31997787M"
+            ],
+            "publish_date": [
+                "Nov 27, 2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 256,
+            "isbn": [
+                "1544502214",
+                "9781544502212"
+            ],
+            "last_modified_i": 1671313435,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL31997787M",
+            "cover_i": 10668345,
+            "publisher": [
+                "Lioncrest Publishing"
+            ],
+            "author_key": [
+                "OL1575829A"
+            ],
+            "author_name": [
+                "David Perry"
+            ],
+            "subject": [
+                "Business"
+            ],
+            "publisher_facet": [
+                "Lioncrest Publishing"
+            ],
+            "subject_facet": [
+                "Business"
+            ],
+            "_version_": 1767915355659829248,
+            "author_facet": [
+                "OL1575829A David Perry"
+            ],
+            "subject_key": [
+                "business"
+            ]
+        },
+        {
+            "key": "/works/OL32543123W",
+            "type": "work",
+            "seed": [
+                "/books/OL44346423M",
+                "/works/OL32543123W",
+                "/subjects/business",
+                "/authors/OL1575829A"
+            ],
+            "title": "Game of Sales",
+            "title_suggest": "Game of Sales",
+            "title_sort": "Game of Sales",
+            "edition_count": 1,
+            "edition_key": [
+                "OL44346423M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9781544502205",
+                "1544502206"
+            ],
+            "last_modified_i": 1671328816,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Scribe Media"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1575829A"
+            ],
+            "author_name": [
+                "David Perry"
+            ],
+            "subject": [
+                "Business"
+            ],
+            "publisher_facet": [
+                "Scribe Media"
+            ],
+            "subject_facet": [
+                "Business"
+            ],
+            "_version_": 1767929003336794113,
+            "author_facet": [
+                "OL1575829A David Perry"
+            ],
+            "subject_key": [
+                "business"
+            ]
+        },
+        {
+            "key": "/works/OL17100152W",
+            "type": "work",
+            "seed": [
+                "/books/OL25670452M",
+                "/works/OL17100152W",
+                "/authors/OL7236535A"
+            ],
+            "title": "De kids van Google en Games zijn we er klaar voor",
+            "title_suggest": "De kids van Google en Games zijn we er klaar voor",
+            "title_sort": "De kids van Google en Games zijn we er klaar voor",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25670452M"
+            ],
+            "publish_date": [
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "8740309401",
+                "9788740309409"
+            ],
+            "last_modified_i": 1598069138,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL25670452M",
+            "cover_i": 7341675,
+            "publisher": [
+                "Bookboon.com"
+            ],
+            "author_key": [
+                "OL7236535A"
+            ],
+            "author_name": [
+                "Helmi Tunnissen"
+            ],
+            "publisher_facet": [
+                "Bookboon.com"
+            ],
+            "_version_": 1767901853398335488,
+            "author_facet": [
+                "OL7236535A Helmi Tunnissen"
+            ]
+        },
+        {
+            "key": "/works/OL34894883W",
+            "type": "work",
+            "seed": [
+                "/books/OL47251524M",
+                "/works/OL34894883W",
+                "/authors/OL12606599A",
+                "/authors/OL1731658A",
+                "/authors/OL1356346A",
+                "/authors/OL7356992A"
+            ],
+            "title": "Plataformas Android",
+            "title_suggest": "Plataformas Android",
+            "title_sort": "Plataformas Android",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47251524M"
+            ],
+            "publish_date": [
+                "Sep 20, 2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "number_of_pages_median": 452,
+            "isbn": [
+                "9788426726636",
+                "8426726631"
+            ],
+            "last_modified_i": 1679299210,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47251524M",
+            "cover_i": 13698684,
+            "publisher": [
+                "Marcombo"
+            ],
+            "author_key": [
+                "OL12606599A",
+                "OL1731658A",
+                "OL1356346A",
+                "OL7356992A"
+            ],
+            "author_name": [
+                "JESUS TOM\u00c1S GIRON\u00c9S",
+                "Vicente Carbonell",
+                "Gonzalo Puga",
+                "Jaime Lloret"
+            ],
+            "publisher_facet": [
+                "Marcombo"
+            ],
+            "_version_": 1767932749282279424,
+            "author_facet": [
+                "OL12606599A JESUS TOM\u00c1S GIRON\u00c9S",
+                "OL1356346A Gonzalo Puga",
+                "OL1731658A Vicente Carbonell",
+                "OL7356992A Jaime Lloret"
+            ]
+        },
+        {
+            "key": "/works/OL28119938W",
+            "type": "work",
+            "seed": [
+                "/books/OL38489018M",
+                "/works/OL28119938W",
+                "/authors/OL8474980A"
+            ],
+            "title": "Google Traffic Tips Tactics and Strategies",
+            "title_suggest": "Google Traffic Tips Tactics and Strategies",
+            "title_sort": "Google Traffic Tips Tactics and Strategies",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38489018M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798475861790"
+            ],
+            "last_modified_i": 1655643003,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8474980A"
+            ],
+            "author_name": [
+                "Sean Hughes"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767922017005207552,
+            "author_facet": [
+                "OL8474980A Sean Hughes"
+            ]
+        },
+        {
+            "key": "/works/OL30850538W",
+            "type": "work",
+            "seed": [
+                "/books/OL42385962M",
+                "/works/OL30850538W",
+                "/authors/OL11285623A"
+            ],
+            "title": "How to Install Google Play Store on Your Kindle Tablet",
+            "title_suggest": "How to Install Google Play Store on Your Kindle Tablet",
+            "title_sort": "How to Install Google Play Store on Your Kindle Tablet",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42385962M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798618860604"
+            ],
+            "last_modified_i": 1669937132,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11285623A"
+            ],
+            "author_name": [
+                "Willy FRASER"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926467429138434,
+            "author_facet": [
+                "OL11285623A Willy FRASER"
+            ]
+        },
+        {
+            "key": "/works/OL21434396W",
+            "type": "work",
+            "seed": [
+                "/books/OL29021455M",
+                "/books/OL39976442M",
+                "/books/OL33404593M",
+                "/works/OL21434396W",
+                "/authors/OL2877594A"
+            ],
+            "title": "Complete Guide to Simulations and Serious Games",
+            "title_suggest": "Complete Guide to Simulations and Serious Games",
+            "title_sort": "Complete Guide to Simulations and Serious Games",
+            "edition_count": 3,
+            "edition_key": [
+                "OL29021455M",
+                "OL39976442M",
+                "OL33404593M"
+            ],
+            "publish_date": [
+                "2009"
+            ],
+            "publish_year": [
+                2009
+            ],
+            "first_publish_year": 2009,
+            "number_of_pages_median": 576,
+            "isbn": [
+                "0470506733",
+                "0470506741",
+                "9780470506738",
+                "0470506725",
+                "9780470506745",
+                "9780470506721"
+            ],
+            "last_modified_i": 1666100154,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Center for Creative Leadership",
+                "Wiley & Sons, Incorporated, John"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2877594A"
+            ],
+            "author_name": [
+                "Clark Aldrich"
+            ],
+            "publisher_facet": [
+                "Center for Creative Leadership",
+                "Wiley & Sons, Incorporated, John"
+            ],
+            "_version_": 1767910656313393153,
+            "author_facet": [
+                "OL2877594A Clark Aldrich"
+            ]
+        },
+        {
+            "key": "/works/OL25744123W",
+            "type": "work",
+            "seed": [
+                "/books/OL50618109M",
+                "/books/OL50615587M",
+                "/books/OL35533028M",
+                "/books/OL35523837M",
+                "/books/OL34639188M",
+                "/books/OL34637324M",
+                "/works/OL25744123W",
+                "/subjects/computer_games",
+                "/subjects/programming",
+                "/subjects/video_games",
+                "/subjects/design",
+                "/subjects/three-dimensional_display_systems",
+                "/subjects/virtual_reality",
+                "/subjects/google_cardboard_(virtual_reality_headset)",
+                "/subjects/virtual_reality",
+                "/subjects/jeux_d'ordinateur",
+                "/subjects/programmation",
+                "/subjects/jeux_vid\u00e9o",
+                "/subjects/conception",
+                "/subjects/affichage_tridimensionnel",
+                "/subjects/r\u00e9alit\u00e9_virtuelle",
+                "/subjects/google_cardboard_(visiocasques)",
+                "/subjects/three-dimensional",
+                "/subjects/games",
+                "/subjects/board",
+                "/subjects/unity_(electronic_resource)",
+                "/authors/OL6771184A"
+            ],
+            "title": "2D to VR with Unity5 and Google Cardboard",
+            "title_sort": "2D to VR with Unity5 and Google Cardboard",
+            "title_suggest": "2D to VR with Unity5 and Google Cardboard",
+            "edition_count": 6,
+            "edition_key": [
+                "OL50618109M",
+                "OL50615587M",
+                "OL35533028M",
+                "OL35523837M",
+                "OL34639188M",
+                "OL34637324M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "oclc": [
+                "982122153"
+            ],
+            "lcc": [
+                "QA-0076.76000000.C672",
+                "QA-0076.76000000.C672 D5338 2017eb",
+                "QA-0076.76000000.C672D5338"
+            ],
+            "isbn": [
+                "9781351641814",
+                "9781351651325",
+                "1138628867",
+                "1351641816",
+                "9781315155272",
+                "1351651323",
+                "9781498781527",
+                "9781498781534",
+                "1498781527",
+                "1315155273",
+                "1498781535",
+                "9781138628861"
+            ],
+            "last_modified_i": 1706656600,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Taylor & Francis Group",
+                "CRC Press LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6771184A"
+            ],
+            "author_name": [
+                "Roberto Dillon"
+            ],
+            "subject": [
+                "Computer games",
+                "Programming",
+                "Video games",
+                "Design",
+                "Three-dimensional display systems",
+                "Virtual reality",
+                "Google Cardboard (Virtual reality headset)",
+                "Virtual Reality",
+                "Jeux d'ordinateur",
+                "Programmation",
+                "Jeux vid\u00e9o",
+                "Conception",
+                "Affichage tridimensionnel",
+                "R\u00e9alit\u00e9 virtuelle",
+                "Google Cardboard (Visiocasques)",
+                "Three-dimensional",
+                "GAMES",
+                "Board",
+                "Unity (Electronic resource)"
+            ],
+            "publisher_facet": [
+                "CRC Press LLC",
+                "Taylor & Francis Group"
+            ],
+            "subject_facet": [
+                "Affichage tridimensionnel",
+                "Board",
+                "Computer games",
+                "Conception",
+                "Design",
+                "GAMES",
+                "Google Cardboard (Virtual reality headset)",
+                "Google Cardboard (Visiocasques)",
+                "Jeux d'ordinateur",
+                "Jeux vid\u00e9o",
+                "Programmation",
+                "Programming",
+                "R\u00e9alit\u00e9 virtuelle",
+                "Three-dimensional",
+                "Three-dimensional display systems",
+                "Unity (Electronic resource)",
+                "Video games",
+                "Virtual Reality",
+                "Virtual reality"
+            ],
+            "_version_": 1789559154060296192,
+            "lcc_sort": "QA-0076.76000000.C672 D5338 2017eb",
+            "author_facet": [
+                "OL6771184A Roberto Dillon"
+            ],
+            "subject_key": [
+                "affichage_tridimensionnel",
+                "board",
+                "computer_games",
+                "conception",
+                "design",
+                "games",
+                "google_cardboard_(virtual_reality_headset)",
+                "google_cardboard_(visiocasques)",
+                "jeux_d'ordinateur",
+                "jeux_vid\u00e9o",
+                "programmation",
+                "programming",
+                "r\u00e9alit\u00e9_virtuelle",
+                "three-dimensional",
+                "three-dimensional_display_systems",
+                "unity_(electronic_resource)",
+                "video_games",
+                "virtual_reality"
+            ]
+        },
+        {
+            "author_key": [
+                "OL2755643A"
+            ],
+            "author_name": [
+                "Tim Dedopulos"
+            ],
+            "cover_i": 7610035,
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL26038529M"
+            ],
+            "first_publish_year": 2011,
+            "has_fulltext": false,
+            "isbn": [
+                "9781847329097",
+                "1847329098"
+            ],
+            "key": "/works/OL17453899W",
+            "last_modified_i": 1708146860,
+            "lcc": [
+                "GV-1493.00000000"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "publisher": [
+                "Carlton Publishing Group"
+            ],
+            "seed": [
+                "/books/OL26038529M",
+                "/works/OL17453899W",
+                "/authors/OL2755643A",
+                "/subjects/google",
+                "/subjects/puzzles",
+                "/subjects/internet_games"
+            ],
+            "title": "The Great Global Treasure Hunt On Google Earth",
+            "title_sort": "The Great Global Treasure Hunt On Google Earth",
+            "title_suggest": "The Great Global Treasure Hunt On Google Earth",
+            "type": "work",
+            "subject": [
+                "Google",
+                "Puzzles",
+                "Internet games"
+            ],
+            "ratings_average": 5.0,
+            "ratings_sortable": 2.4036636,
+            "ratings_count": 1,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 1,
+            "readinglog_count": 1,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "publisher_facet": [
+                "Carlton Publishing Group"
+            ],
+            "subject_facet": [
+                "Google",
+                "Internet games",
+                "Puzzles"
+            ],
+            "_version_": 1791121804219121664,
+            "lcc_sort": "GV-1493.00000000",
+            "author_facet": [
+                "OL2755643A Tim Dedopulos"
+            ],
+            "subject_key": [
+                "google",
+                "internet_games",
+                "puzzles"
+            ]
+        },
+        {
+            "key": "/works/OL17556137W",
+            "type": "work",
+            "seed": [
+                "/books/OL26146482M",
+                "/works/OL17556137W",
+                "/subjects/puzzles",
+                "/subjects/treasure_hunt_(game)",
+                "/subjects/google_earth",
+                "/authors/OL2845029A"
+            ],
+            "title": "The Great Global Treasure Hunt On Google Earth",
+            "title_suggest": "The Great Global Treasure Hunt On Google Earth",
+            "title_sort": "The Great Global Treasure Hunt On Google Earth",
+            "edition_count": 1,
+            "edition_key": [
+                "OL26146482M"
+            ],
+            "isbn": [
+                "9781847326232",
+                "1847326234"
+            ],
+            "last_modified_i": 1598693204,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "greatglobaltreas0000dedo"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL26146482M",
+            "lending_identifier_s": "greatglobaltreas0000dedo",
+            "printdisabled_s": "OL26146482M",
+            "cover_edition_key": "OL26146482M",
+            "cover_i": 7813885,
+            "publisher": [
+                "Carlton Publishing Group"
+            ],
+            "author_key": [
+                "OL2845029A"
+            ],
+            "author_name": [
+                "Carlton Books"
+            ],
+            "subject": [
+                "Puzzles",
+                "Treasure hunt (Game)",
+                "Google Earth"
+            ],
+            "ia_box_id": [
+                "IA1915113"
+            ],
+            "publisher_facet": [
+                "Carlton Publishing Group"
+            ],
+            "subject_facet": [
+                "Google Earth",
+                "Puzzles",
+                "Treasure hunt (Game)"
+            ],
+            "_version_": 1767902668757401603,
+            "author_facet": [
+                "OL2845029A Carlton Books"
+            ],
+            "subject_key": [
+                "google_earth",
+                "puzzles",
+                "treasure_hunt_(game)"
+            ]
+        },
+        {
+            "key": "/works/OL30381192W",
+            "type": "work",
+            "seed": [
+                "/books/OL41764728M",
+                "/works/OL30381192W",
+                "/authors/OL11117192A"
+            ],
+            "title": "I'm the Doctor. Google It",
+            "title_suggest": "I'm the Doctor. Google It",
+            "title_sort": "I'm the Doctor. Google It",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41764728M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "167059422X",
+                "9781670594228"
+            ],
+            "last_modified_i": 1669579118,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11117192A"
+            ],
+            "author_name": [
+                "Joshy Daimer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925734835224577,
+            "author_facet": [
+                "OL11117192A Joshy Daimer"
+            ]
+        },
+        {
+            "key": "/works/OL30364001W",
+            "type": "work",
+            "seed": [
+                "/books/OL41740592M",
+                "/works/OL30364001W",
+                "/authors/OL11117192A"
+            ],
+            "title": "I'm the Doctor. Google It",
+            "title_suggest": "I'm the Doctor. Google It",
+            "title_sort": "I'm the Doctor. Google It",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41740592M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1672255171",
+                "9781672255172"
+            ],
+            "last_modified_i": 1669565016,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11117192A"
+            ],
+            "author_name": [
+                "Joshy Daimer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925806112178177,
+            "author_facet": [
+                "OL11117192A Joshy Daimer"
+            ]
+        },
+        {
+            "key": "/works/OL30449313W",
+            "type": "work",
+            "seed": [
+                "/books/OL41860303M",
+                "/works/OL30449313W",
+                "/authors/OL11117441A"
+            ],
+            "title": "I Don't Need Google My Husband Knows Everything",
+            "title_suggest": "I Don't Need Google My Husband Knows Everything",
+            "title_sort": "I Don't Need Google My Husband Knows Everything",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41860303M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781713257660",
+                "1713257661"
+            ],
+            "last_modified_i": 1669631623,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11117441A"
+            ],
+            "author_name": [
+                "Till Wiek"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925774107541506,
+            "author_facet": [
+                "OL11117441A Till Wiek"
+            ]
+        },
+        {
+            "key": "/works/OL11632309W",
+            "type": "work",
+            "seed": [
+                "/books/OL23614074M",
+                "/books/OL23686854M",
+                "/works/OL11632309W",
+                "/authors/OL4914351A"
+            ],
+            "title": "The complete guide to simulations and serious games",
+            "title_suggest": "The complete guide to simulations and serious games",
+            "title_sort": "The complete guide to simulations and serious games",
+            "edition_count": 2,
+            "edition_key": [
+                "OL23614074M",
+                "OL23686854M"
+            ],
+            "publish_date": [
+                "2009"
+            ],
+            "publish_year": [
+                2009
+            ],
+            "first_publish_year": 2009,
+            "lccn": [
+                "2009025589"
+            ],
+            "publish_place": [
+                "San Francisco"
+            ],
+            "lcc": [
+                "LB-1029.00000000.S5 A43 2009"
+            ],
+            "ddc": [
+                "371.397"
+            ],
+            "isbn": [
+                "0470462736",
+                "9780470462737"
+            ],
+            "last_modified_i": 1282258429,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Pfeiffer"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4914351A"
+            ],
+            "author_name": [
+                "Clark Aldrich"
+            ],
+            "id_goodreads": [
+                "6353618"
+            ],
+            "id_librarything": [
+                "9133738"
+            ],
+            "publisher_facet": [
+                "Pfeiffer"
+            ],
+            "_version_": 1767893058030927872,
+            "lcc_sort": "LB-1029.00000000.S5 A43 2009",
+            "author_facet": [
+                "OL4914351A Clark Aldrich"
+            ],
+            "ddc_sort": "371.397"
+        },
+        {
+            "key": "/works/OL18602835W",
+            "type": "work",
+            "seed": [
+                "/books/OL24032534M",
+                "/works/OL18602835W",
+                "/subjects/simulated_environment_(teaching_method)",
+                "/subjects/electronic_games",
+                "/subjects/simscript_(computer_program_language)",
+                "/subjects/computer_games_programming",
+                "/authors/OL4914351A"
+            ],
+            "title": "The complete guide to simulations and serious games",
+            "title_sort": "The complete guide to simulations and serious games",
+            "title_suggest": "The complete guide to simulations and serious games",
+            "edition_count": 1,
+            "edition_key": [
+                "OL24032534M"
+            ],
+            "publish_date": [
+                "2009"
+            ],
+            "publish_year": [
+                2009
+            ],
+            "first_publish_year": 2009,
+            "number_of_pages_median": 533,
+            "lccn": [
+                "2009025589"
+            ],
+            "publish_place": [
+                "San Francisco"
+            ],
+            "oclc": [
+                "298775890"
+            ],
+            "lcc": [
+                "LB-1029.00000000.S5 A43 2009",
+                "LB-1029.00000000.S5A43 2009"
+            ],
+            "ddc": [
+                "371.397"
+            ],
+            "isbn": [
+                "9780470462737",
+                "0470462736"
+            ],
+            "last_modified_i": 1684039161,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "completeguidetos0000aldr"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "internetarchivebooks;printdisabled",
+            "printdisabled_s": "OL24032534M",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL24032534M",
+            "cover_i": 14318338,
+            "publisher": [
+                "Pfeiffer"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4914351A"
+            ],
+            "author_name": [
+                "Clark Aldrich"
+            ],
+            "subject": [
+                "Simulated environment (Teaching method)",
+                "Electronic games",
+                "Simscript (computer program language)",
+                "Computer games, programming"
+            ],
+            "ia_box_id": [
+                "IA40931408"
+            ],
+            "publisher_facet": [
+                "Pfeiffer"
+            ],
+            "subject_facet": [
+                "Computer games, programming",
+                "Electronic games",
+                "Simscript (computer program language)",
+                "Simulated environment (Teaching method)"
+            ],
+            "_version_": 1780209141135966209,
+            "lcc_sort": "LB-1029.00000000.S5 A43 2009",
+            "author_facet": [
+                "OL4914351A Clark Aldrich"
+            ],
+            "subject_key": [
+                "computer_games_programming",
+                "electronic_games",
+                "simscript_(computer_program_language)",
+                "simulated_environment_(teaching_method)"
+            ],
+            "ddc_sort": "371.397"
+        },
+        {
+            "key": "/works/OL30353065W",
+            "type": "work",
+            "seed": [
+                "/books/OL41726006M",
+                "/works/OL30353065W",
+                "/authors/OL11089098A"
+            ],
+            "title": "I Don't Need Google My Husband Knows Everything",
+            "title_suggest": "I Don't Need Google My Husband Knows Everything",
+            "title_sort": "I Don't Need Google My Husband Knows Everything",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41726006M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1707136785",
+                "9781707136780"
+            ],
+            "last_modified_i": 1669556694,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11089098A"
+            ],
+            "author_name": [
+                "Tik Tak Tuk"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925695606947840,
+            "author_facet": [
+                "OL11089098A Tik Tak Tuk"
+            ]
+        },
+        {
+            "key": "/works/OL30406190W",
+            "type": "work",
+            "seed": [
+                "/books/OL41800951M",
+                "/works/OL30406190W",
+                "/authors/OL11089098A"
+            ],
+            "title": "I Don't Need Google My Wife Knows Everything",
+            "title_suggest": "I Don't Need Google My Wife Knows Everything",
+            "title_sort": "I Don't Need Google My Wife Knows Everything",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41800951M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1704286867",
+                "9781704286860"
+            ],
+            "last_modified_i": 1669599331,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11089098A"
+            ],
+            "author_name": [
+                "Tik Tak Tuk"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925711244361729,
+            "author_facet": [
+                "OL11089098A Tik Tak Tuk"
+            ]
+        },
+        {
+            "key": "/works/OL30407946W",
+            "type": "work",
+            "seed": [
+                "/books/OL41803417M",
+                "/works/OL30407946W",
+                "/authors/OL11089098A"
+            ],
+            "title": "I Don't Need Google My Husband Knows Everything",
+            "title_suggest": "I Don't Need Google My Husband Knows Everything",
+            "title_sort": "I Don't Need Google My Husband Knows Everything",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41803417M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1707497494",
+                "9781707497492"
+            ],
+            "last_modified_i": 1669600686,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11089098A"
+            ],
+            "author_name": [
+                "Tik Tak Tuk"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925756976955392,
+            "author_facet": [
+                "OL11089098A Tik Tak Tuk"
+            ]
+        },
+        {
+            "key": "/works/OL30388207W",
+            "type": "work",
+            "seed": [
+                "/books/OL41775355M",
+                "/works/OL30388207W",
+                "/authors/OL11089098A"
+            ],
+            "title": "Unless Your Name Is Google Stop Acting Like You Know Everything",
+            "title_suggest": "Unless Your Name Is Google Stop Acting Like You Know Everything",
+            "title_sort": "Unless Your Name Is Google Stop Acting Like You Know Everything",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41775355M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781704257716",
+                "1704257719"
+            ],
+            "last_modified_i": 1669585058,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11089098A"
+            ],
+            "author_name": [
+                "Tik Tak Tuk"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925704871116801,
+            "author_facet": [
+                "OL11089098A Tik Tak Tuk"
+            ]
+        },
+        {
+            "key": "/works/OL26048262W",
+            "type": "work",
+            "seed": [
+                "/books/OL35157629M",
+                "/works/OL26048262W",
+                "/authors/OL9243371A"
+            ],
+            "title": "Brain Game - Sudoku",
+            "title_suggest": "Brain Game - Sudoku",
+            "title_sort": "Brain Game - Sudoku",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35157629M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9781908492883",
+                "1908492880"
+            ],
+            "last_modified_i": 1633895336,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Google"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9243371A"
+            ],
+            "author_name": [
+                "Master Puzzle"
+            ],
+            "publisher_facet": [
+                "Google"
+            ],
+            "_version_": 1767918552752324608,
+            "author_facet": [
+                "OL9243371A Master Puzzle"
+            ]
+        },
+        {
+            "key": "/works/OL26048239W",
+            "type": "work",
+            "seed": [
+                "/books/OL35157604M",
+                "/works/OL26048239W",
+                "/authors/OL8371520A"
+            ],
+            "title": "65 Maze Game for Adult",
+            "title_suggest": "65 Maze Game for Adult",
+            "title_sort": "65 Maze Game for Adult",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35157604M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "1894737857",
+                "9781894737852"
+            ],
+            "last_modified_i": 1633895324,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Google"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8371520A"
+            ],
+            "author_name": [
+                "Puzzle World"
+            ],
+            "publisher_facet": [
+                "Google"
+            ],
+            "_version_": 1767918553368887297,
+            "author_facet": [
+                "OL8371520A Puzzle World"
+            ]
+        },
+        {
+            "key": "/works/OL21567397W",
+            "type": "work",
+            "seed": [
+                "/books/OL30624186M",
+                "/books/OL29267301M",
+                "/books/OL29267298M",
+                "/works/OL21567397W",
+                "/subjects/google",
+                "/subjects/internet_marketing",
+                "/subjects/web_sites",
+                "/subjects/web_search_engines",
+                "/subjects/business_&_economics_/_marketing_/_direct",
+                "/subjects/business_&_economics_/_e-commerce_/_internet_marketing",
+                "/subjects/search_engines",
+                "/subjects/electronic_commerce",
+                "/subjects/electronic_information_resource_searching",
+                "/subjects/business_&_economics_/_marketing_/_general",
+                "/subjects/telemarketing",
+                "/authors/OL8248040A"
+            ],
+            "title": "Win the Game of Googleopoly",
+            "title_sort": "Win the Game of Googleopoly",
+            "title_suggest": "Win the Game of Googleopoly",
+            "edition_count": 3,
+            "edition_key": [
+                "OL30624186M",
+                "OL29267301M",
+                "OL29267298M"
+            ],
+            "publish_date": [
+                "Jan 20, 2015",
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 272,
+            "lccn": [
+                "2014036988",
+                "2015001112"
+            ],
+            "lcc": [
+                "ZA-4230.00000000.B73 2015",
+                "ZA-4230.00000000",
+                "HF-5415.12650000"
+            ],
+            "isbn": [
+                "1119002575",
+                "9781119002574",
+                "9781119002796",
+                "1119002583",
+                "9781119002581",
+                "1119002796"
+            ],
+            "last_modified_i": 1670477164,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "wingameofgoogleo0000brad"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled",
+                "riceuniversity-ol"
+            ],
+            "ia_collection_s": "internetarchivebooks;printdisabled;riceuniversity-ol",
+            "printdisabled_s": "OL30624186M",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL30624186M",
+            "cover_i": 10479482,
+            "publisher": [
+                "Wiley & Sons, Incorporated, John",
+                "Wiley"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8248040A"
+            ],
+            "author_name": [
+                "Sean V. Bradley"
+            ],
+            "subject": [
+                "Google",
+                "Internet marketing",
+                "Web sites",
+                "Web search engines",
+                "BUSINESS & ECONOMICS / Marketing / Direct",
+                "BUSINESS & ECONOMICS / E-Commerce / Internet Marketing",
+                "Search engines",
+                "Electronic commerce",
+                "Electronic information resource searching",
+                "BUSINESS & ECONOMICS / Marketing / General",
+                "Telemarketing"
+            ],
+            "ia_box_id": [
+                "IA40295015"
+            ],
+            "publisher_facet": [
+                "Wiley",
+                "Wiley & Sons, Incorporated, John"
+            ],
+            "subject_facet": [
+                "BUSINESS & ECONOMICS / E-Commerce / Internet Marketing",
+                "BUSINESS & ECONOMICS / Marketing / Direct",
+                "BUSINESS & ECONOMICS / Marketing / General",
+                "Electronic commerce",
+                "Electronic information resource searching",
+                "Google",
+                "Internet marketing",
+                "Search engines",
+                "Telemarketing",
+                "Web search engines",
+                "Web sites"
+            ],
+            "_version_": 1780206018482929666,
+            "lcc_sort": "ZA-4230.00000000.B73 2015",
+            "author_facet": [
+                "OL8248040A Sean V. Bradley"
+            ],
+            "subject_key": [
+                "business__economics__e-commerce__internet_marketing",
+                "business__economics__marketing__direct",
+                "business__economics__marketing__general",
+                "electronic_commerce",
+                "electronic_information_resource_searching",
+                "google",
+                "internet_marketing",
+                "search_engines",
+                "telemarketing",
+                "web_search_engines",
+                "web_sites"
+            ]
+        },
+        {
+            "key": "/works/OL35820604W",
+            "type": "work",
+            "seed": [
+                "/books/OL48342806M",
+                "/works/OL35820604W",
+                "/authors/OL12944122A"
+            ],
+            "title": "Dictionary of 30000 Essential Computer Terms - English Russian Chinese Hindi Arabic",
+            "title_suggest": "Dictionary of 30000 Essential Computer Terms - English Russian Chinese Hindi Arabic",
+            "title_sort": "Dictionary of 30000 Essential Computer Terms - English Russian Chinese Hindi Arabic",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48342806M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798639584572"
+            ],
+            "last_modified_i": 1687019478,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12944122A"
+            ],
+            "author_name": [
+                "Catherine Chantal MARANGO"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769211644886384641,
+            "author_facet": [
+                "OL12944122A Catherine Chantal MARANGO"
+            ]
+        },
+        {
+            "key": "/works/OL19802210W",
+            "type": "work",
+            "seed": [
+                "/books/OL6958558M",
+                "/works/OL19802210W",
+                "/subjects/takes",
+                "/subjects/third",
+                "/subjects/second",
+                "/subjects/fourth",
+                "/subjects/play",
+                "/subjects/sixth",
+                "/subjects/seventh",
+                "/subjects/pawn",
+                "/subjects/wins",
+                "/subjects/winning",
+                "/subjects/best_move",
+                "/subjects/forced_won",
+                "/subjects/black_play",
+                "/subjects/three_moves",
+                "/subjects/public_domain",
+                "/subjects/good_play",
+                "/subjects/second_square",
+                "/subjects/fourth_square",
+                "/subjects/third_square",
+                "/subjects/google_book",
+                "/subjects/chess",
+                "/authors/OL2511366A"
+            ],
+            "title": "A Second Series of Lessons on the Game of Chess",
+            "title_sort": "A Second Series of Lessons on the Game of Chess",
+            "title_suggest": "A Second Series of Lessons on the Game of Chess",
+            "edition_count": 1,
+            "edition_key": [
+                "OL6958558M"
+            ],
+            "publish_date": [
+                "1834"
+            ],
+            "publish_year": [
+                1834
+            ],
+            "first_publish_year": 1834,
+            "number_of_pages_median": 316,
+            "lccn": [
+                "05025185"
+            ],
+            "publish_place": [
+                "London"
+            ],
+            "oclc": [
+                "5249212"
+            ],
+            "lcc": [
+                "GC-1451.00000000.L63",
+                "GV-1451.00000000.L63"
+            ],
+            "last_modified_i": 1700018579,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "asecondseriesle00lewigoog"
+            ],
+            "ia_collection": [
+                "americana"
+            ],
+            "ia_collection_s": "americana",
+            "lending_edition_s": "OL6958558M",
+            "lending_identifier_s": "asecondseriesle00lewigoog",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL6958558M",
+            "cover_i": 5871268,
+            "publisher": [
+                "W. Simpkin and R. Marshall"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2511366A"
+            ],
+            "author_name": [
+                "Lewis, William"
+            ],
+            "subject": [
+                "takes",
+                "third",
+                "second",
+                "fourth",
+                "play",
+                "sixth",
+                "seventh",
+                "pawn",
+                "wins",
+                "winning",
+                "best move",
+                "forced won",
+                "black play",
+                "three moves",
+                "public domain",
+                "good play",
+                "second square",
+                "fourth square",
+                "third square",
+                "google book",
+                "Chess"
+            ],
+            "publisher_facet": [
+                "W. Simpkin and R. Marshall"
+            ],
+            "subject_facet": [
+                "Chess",
+                "best move",
+                "black play",
+                "forced won",
+                "fourth",
+                "fourth square",
+                "good play",
+                "google book",
+                "pawn",
+                "play",
+                "public domain",
+                "second",
+                "second square",
+                "seventh",
+                "sixth",
+                "takes",
+                "third",
+                "third square",
+                "three moves",
+                "winning",
+                "wins"
+            ],
+            "_version_": 1782598687661228033,
+            "lcc_sort": "GC-1451.00000000.L63",
+            "author_facet": [
+                "OL2511366A Lewis, William"
+            ],
+            "subject_key": [
+                "best_move",
+                "black_play",
+                "chess",
+                "forced_won",
+                "fourth",
+                "fourth_square",
+                "good_play",
+                "google_book",
+                "pawn",
+                "play",
+                "public_domain",
+                "second",
+                "second_square",
+                "seventh",
+                "sixth",
+                "takes",
+                "third",
+                "third_square",
+                "three_moves",
+                "winning",
+                "wins"
+            ]
+        },
+        {
+            "key": "/works/OL17389312W",
+            "type": "work",
+            "seed": [
+                "/books/OL25969449M",
+                "/works/OL17389312W",
+                "/subjects/iphone_(smartphone)",
+                "/subjects/application_software",
+                "/subjects/development",
+                "/subjects/javascript_(computer_program_language)",
+                "/subjects/iphone_(t\u00e9l\u00e9phone_intelligent)",
+                "/subjects/logiciels_d'application",
+                "/subjects/d\u00e9veloppement",
+                "/subjects/javascript_(langage_de_programmation)",
+                "/subjects/games",
+                "/subjects/video_&_electronic",
+                "/subjects/android_(electronic_resource)",
+                "/subjects/handbooks_manuals",
+                "/subjects/java_(computer_program_language)",
+                "/subjects/internet_programming",
+                "/subjects/internet",
+                "/authors/OL7299888A"
+            ],
+            "title": "Sencha Touch 10 Mobile Javascript Framework Build Web Applications For Apple Ios And Google Android Touchscreen Devices With This First Html5 Mobile Framework",
+            "title_suggest": "Sencha Touch 10 Mobile Javascript Framework Build Web Applications For Apple Ios And Google Android Touchscreen Devices With This First Html5 Mobile Framework",
+            "title_sort": "Sencha Touch 10 Mobile Javascript Framework Build Web Applications For Apple Ios And Google Android Touchscreen Devices With This First Html5 Mobile Framework",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25969449M"
+            ],
+            "publish_date": [
+                "2012"
+            ],
+            "publish_year": [
+                2012
+            ],
+            "first_publish_year": 2012,
+            "oclc": [
+                "780137617",
+                "798947775"
+            ],
+            "lcc": [
+                "QA-0076.76000000.A65"
+            ],
+            "isbn": [
+                "9781849515108",
+                "1849515107"
+            ],
+            "last_modified_i": 1673675206,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "senchatouchmobil00raon"
+            ],
+            "ia_collection": [
+                "librarygenesis",
+                "printdisabled"
+            ],
+            "ia_collection_s": "librarygenesis;printdisabled",
+            "printdisabled_s": "OL25969449M",
+            "cover_edition_key": "OL25969449M",
+            "cover_i": 7481525,
+            "publisher": [
+                "Packt Publishing"
+            ],
+            "author_key": [
+                "OL7299888A"
+            ],
+            "author_name": [
+                "Bryan Patrick Johnson"
+            ],
+            "subject": [
+                "IPhone (Smartphone)",
+                "Application software",
+                "Development",
+                "JavaScript (Computer program language)",
+                "IPhone (T\u00e9l\u00e9phone intelligent)",
+                "Logiciels d'application",
+                "D\u00e9veloppement",
+                "JavaScript (Langage de programmation)",
+                "GAMES",
+                "Video & Electronic",
+                "Android (Electronic resource)",
+                "Handbooks, manuals",
+                "Java (Computer program language)",
+                "Internet programming",
+                "Internet"
+            ],
+            "publisher_facet": [
+                "Packt Publishing"
+            ],
+            "subject_facet": [
+                "Android (Electronic resource)",
+                "Application software",
+                "Development",
+                "D\u00e9veloppement",
+                "GAMES",
+                "Handbooks, manuals",
+                "IPhone (Smartphone)",
+                "IPhone (T\u00e9l\u00e9phone intelligent)",
+                "Internet",
+                "Internet programming",
+                "Java (Computer program language)",
+                "JavaScript (Computer program language)",
+                "JavaScript (Langage de programmation)",
+                "Logiciels d'application",
+                "Video & Electronic"
+            ],
+            "_version_": 1767902372731813889,
+            "lcc_sort": "QA-0076.76000000.A65",
+            "author_facet": [
+                "OL7299888A Bryan Patrick Johnson"
+            ],
+            "subject_key": [
+                "android_(electronic_resource)",
+                "application_software",
+                "development",
+                "d\u00e9veloppement",
+                "games",
+                "handbooks_manuals",
+                "internet",
+                "internet_programming",
+                "iphone_(smartphone)",
+                "iphone_(t\u00e9l\u00e9phone_intelligent)",
+                "java_(computer_program_language)",
+                "javascript_(computer_program_language)",
+                "javascript_(langage_de_programmation)",
+                "logiciels_d'application",
+                "video__electronic"
+            ]
+        },
+        {
+            "key": "/works/OL30512703W",
+            "type": "work",
+            "seed": [
+                "/books/OL42149149M",
+                "/books/OL41949462M",
+                "/works/OL30512703W",
+                "/authors/OL9593543A"
+            ],
+            "title": "Raspberry Pi - New Tech",
+            "title_suggest": "Raspberry Pi - New Tech",
+            "title_sort": "Raspberry Pi - New Tech",
+            "edition_count": 2,
+            "edition_key": [
+                "OL42149149M",
+                "OL41949462M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781679318283",
+                "9781679337338",
+                "1679318284",
+                "1679337335"
+            ],
+            "last_modified_i": 1669799298,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9593543A"
+            ],
+            "author_name": [
+                "Anbazhagan K"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925853974429696,
+            "author_facet": [
+                "OL9593543A Anbazhagan K"
+            ]
+        },
+        {
+            "key": "/works/OL19553036W",
+            "type": "work",
+            "seed": [
+                "/books/OL20541479M",
+                "/works/OL19553036W",
+                "/subjects/benson",
+                "/subjects/thomas",
+                "/subjects/game",
+                "/subjects/george",
+                "/subjects/companions",
+                "/subjects/young",
+                "/subjects/marbles",
+                "/subjects/replied",
+                "/subjects/public_domain",
+                "/subjects/george_benson",
+                "/subjects/young_companions",
+                "/subjects/google_book",
+                "/subjects/good_deal",
+                "/subjects/long_time",
+                "/subjects/book_search",
+                "/subjects/young_party",
+                "/subjects/thomas_white",
+                "/subjects/set_forward",
+                "/authors/OL5996378A"
+            ],
+            "title": "The Book of Games, Or, A History of Juvenile Sports: Practised at a ...",
+            "title_suggest": "The Book of Games, Or, A History of Juvenile Sports: Practised at a ...",
+            "title_sort": "The Book of Games, Or, A History of Juvenile Sports: Practised at a ...",
+            "edition_count": 1,
+            "edition_key": [
+                "OL20541479M"
+            ],
+            "publish_date": [
+                "1812"
+            ],
+            "publish_year": [
+                1812
+            ],
+            "first_publish_year": 1812,
+            "number_of_pages_median": 247,
+            "oclc": [
+                "30759130"
+            ],
+            "last_modified_i": 1554769193,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "bookgamesorahis00unkngoog"
+            ],
+            "ia_collection": [
+                "americana"
+            ],
+            "ia_collection_s": "americana",
+            "lending_edition_s": "OL20541479M",
+            "lending_identifier_s": "bookgamesorahis00unkngoog",
+            "cover_edition_key": "OL20541479M",
+            "cover_i": 7035921,
+            "publisher": [
+                "and to be had of all booksellers"
+            ],
+            "subject": [
+                "benson",
+                "thomas",
+                "game",
+                "george",
+                "companions",
+                "young",
+                "marbles",
+                "replied",
+                "public domain",
+                "george benson",
+                "young companions",
+                "google book",
+                "good deal",
+                "long time",
+                "book search",
+                "young party",
+                "thomas white",
+                "set forward"
+            ],
+            "publisher_facet": [
+                "and to be had of all booksellers"
+            ],
+            "subject_facet": [
+                "benson",
+                "book search",
+                "companions",
+                "game",
+                "george",
+                "george benson",
+                "good deal",
+                "google book",
+                "long time",
+                "marbles",
+                "public domain",
+                "replied",
+                "set forward",
+                "thomas",
+                "thomas white",
+                "young",
+                "young companions",
+                "young party"
+            ],
+            "_version_": 1767906730702798849,
+            "subject_key": [
+                "benson",
+                "book_search",
+                "companions",
+                "game",
+                "george",
+                "george_benson",
+                "good_deal",
+                "google_book",
+                "long_time",
+                "marbles",
+                "public_domain",
+                "replied",
+                "set_forward",
+                "thomas",
+                "thomas_white",
+                "young",
+                "young_companions",
+                "young_party"
+            ]
+        },
+        {
+            "key": "/works/OL26045797W",
+            "type": "work",
+            "seed": [
+                "/books/OL35152922M",
+                "/works/OL26045797W",
+                "/authors/OL9838161A"
+            ],
+            "title": "Mazes for Kids Aged 4-8",
+            "title_suggest": "Mazes for Kids Aged 4-8",
+            "title_sort": "Mazes for Kids Aged 4-8",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35152922M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9781198885556",
+                "1198885556"
+            ],
+            "last_modified_i": 1633892768,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Google"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9838161A"
+            ],
+            "author_name": [
+                "Jose Reynolds"
+            ],
+            "publisher_facet": [
+                "Google"
+            ],
+            "_version_": 1767918510064795649,
+            "author_facet": [
+                "OL9838161A Jose Reynolds"
+            ]
+        },
+        {
+            "key": "/works/OL26044253W",
+            "type": "work",
+            "seed": [
+                "/books/OL35151035M",
+                "/works/OL26044253W",
+                "/authors/OL2850858A"
+            ],
+            "title": "Fun Word Search Puzzles for Clever Kids 4-8",
+            "title_suggest": "Fun Word Search Puzzles for Clever Kids 4-8",
+            "title_sort": "Fun Word Search Puzzles for Clever Kids 4-8",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35151035M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9780403923311",
+                "040392331X"
+            ],
+            "last_modified_i": 1633891437,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Google"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2850858A"
+            ],
+            "author_name": [
+                "Jessica Davis"
+            ],
+            "publisher_facet": [
+                "Google"
+            ],
+            "_version_": 1767918461610098688,
+            "author_facet": [
+                "OL2850858A Jessica Davis"
+            ]
+        },
+        {
+            "key": "/works/OL16600799W",
+            "type": "work",
+            "seed": [
+                "/books/OL33463714M",
+                "/books/OL36725872M",
+                "/books/OL27022447M",
+                "/books/OL36707386M",
+                "/books/OL36801996M",
+                "/books/OL25284173M",
+                "/works/OL16600799W",
+                "/subjects/development",
+                "/subjects/application_software",
+                "/subjects/cascading_style_sheets",
+                "/subjects/javascript_(computer_program_language)",
+                "/subjects/mobile_computing",
+                "/subjects/programming",
+                "/subjects/html_(document_markup_language)",
+                "/subjects/android_(electronic_resource)",
+                "/subjects/application_software_development",
+                "/subjects/html_(document_markup_language)",
+                "/subjects/javascript_(computer_program_language)",
+                "/subjects/t\u00e9l\u00e9phonie_mobile",
+                "/subjects/informatique_mobile",
+                "/subjects/google_android_(syst\u00e8me_d'exploitation_des_ordinateurs)",
+                "/subjects/logiciels",
+                "/subjects/d\u00e9veloppement",
+                "/subjects/web_programming",
+                "/subjects/javascript",
+                "/subjects/html",
+                "/subjects/open_source",
+                "/subjects/general",
+                "/subjects/games",
+                "/subjects/com051390",
+                "/subjects/cs.cmp_sc.app_sw",
+                "/subjects/cs.cmp_sc.prog_lang",
+                "/authors/OL3345449A"
+            ],
+            "title": "Building Android apps with HTML, CSS, and JavaScript",
+            "title_sort": "Building Android apps with HTML, CSS, and JavaScript",
+            "title_suggest": "Building Android apps with HTML, CSS, and JavaScript",
+            "edition_count": 6,
+            "edition_key": [
+                "OL33463714M",
+                "OL36725872M",
+                "OL27022447M",
+                "OL36707386M",
+                "OL36801996M",
+                "OL25284173M"
+            ],
+            "publish_date": [
+                "2012",
+                "2010"
+            ],
+            "publish_year": [
+                2012,
+                2010
+            ],
+            "first_publish_year": 2010,
+            "number_of_pages_median": 161,
+            "lccn": [
+                "2012360964"
+            ],
+            "publish_place": [
+                "Beijing",
+                "Sebastopol, CA"
+            ],
+            "oclc": [
+                "587209924",
+                "778252664",
+                "795702401"
+            ],
+            "contributor": [
+                "Jepson, Brian, 1967-"
+            ],
+            "lcc": [
+                "QA-0076.59000000",
+                "QA-0076.76000000.A65 S7415 2012",
+                "TK-5103.20000000"
+            ],
+            "ddc": [
+                "005.26"
+            ],
+            "isbn": [
+                "9781449397036",
+                "9781449327941",
+                "1449316417",
+                "9781449383268",
+                "144932794X",
+                "9781322222844",
+                "9781449327934",
+                "9781449316419",
+                "1449327931",
+                "1322222843",
+                "1449383262",
+                "1449397034"
+            ],
+            "last_modified_i": 1703038989,
+            "ebook_count_i": 0,
+            "ebook_access": "unclassified",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ia": [
+                "buildingandroida00star",
+                "buildingandroida00star_769"
+            ],
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL25284173M",
+            "cover_i": 9546492,
+            "publisher": [
+                "O'Reilly Media, Incorporated",
+                "O'Reilly"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3345449A"
+            ],
+            "author_name": [
+                "Jonathan Stark"
+            ],
+            "subject": [
+                "Development",
+                "Application software",
+                "Cascading style sheets",
+                "JavaScript (Computer program language)",
+                "Mobile computing",
+                "Programming",
+                "HTML (Document markup language)",
+                "Android (Electronic resource)",
+                "Application software, development",
+                "Html (document markup language)",
+                "Javascript (computer program language)",
+                "T\u00e9l\u00e9phonie mobile",
+                "Informatique mobile",
+                "Google Android (syst\u00e8me d'exploitation des ordinateurs)",
+                "Logiciels",
+                "D\u00e9veloppement",
+                "Web programming",
+                "Javascript",
+                "Html",
+                "Open source",
+                "General",
+                "Games",
+                "Com051390",
+                "Cs.cmp_sc.app_sw",
+                "Cs.cmp_sc.prog_lang"
+            ],
+            "publisher_facet": [
+                "O'Reilly",
+                "O'Reilly Media, Incorporated"
+            ],
+            "subject_facet": [
+                "Android (Electronic resource)",
+                "Application software",
+                "Application software, development",
+                "Cascading style sheets",
+                "Com051390",
+                "Cs.cmp_sc.app_sw",
+                "Cs.cmp_sc.prog_lang",
+                "Development",
+                "D\u00e9veloppement",
+                "Games",
+                "General",
+                "Google Android (syst\u00e8me d'exploitation des ordinateurs)",
+                "HTML (Document markup language)",
+                "Html",
+                "Html (document markup language)",
+                "Informatique mobile",
+                "JavaScript (Computer program language)",
+                "Javascript",
+                "Javascript (computer program language)",
+                "Logiciels",
+                "Mobile computing",
+                "Open source",
+                "Programming",
+                "T\u00e9l\u00e9phonie mobile",
+                "Web programming"
+            ],
+            "_version_": 1785765814313418754,
+            "lcc_sort": "QA-0076.76000000.A65 S7415 2012",
+            "author_facet": [
+                "OL3345449A Jonathan Stark"
+            ],
+            "subject_key": [
+                "android_(electronic_resource)",
+                "application_software",
+                "application_software_development",
+                "cascading_style_sheets",
+                "com051390",
+                "cs.cmp_sc.app_sw",
+                "cs.cmp_sc.prog_lang",
+                "development",
+                "d\u00e9veloppement",
+                "games",
+                "general",
+                "google_android_(syst\u00e8me_d'exploitation_des_ordinateurs)",
+                "html",
+                "html_(document_markup_language)",
+                "informatique_mobile",
+                "javascript",
+                "javascript_(computer_program_language)",
+                "logiciels",
+                "mobile_computing",
+                "open_source",
+                "programming",
+                "t\u00e9l\u00e9phonie_mobile",
+                "web_programming"
+            ],
+            "ddc_sort": "005.26"
+        }
+    ],
+    "num_found": 36,
+    "q": "game google",
+    "offset": null
+}
