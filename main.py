@@ -28,7 +28,7 @@ mdata=json.dumps(data,indent=4)
 
 #addition of coulumns to the table "book_store"
 dbase.execute("DROP TABLE IF EXISTS book_store")
-input_columns = [x for x in input("What columns you want: ").split()]
+input_columns = [x for x in input("What columns you want(seperated by space): ").split()]
 make_table(dbase,input_columns)
 
 #Creation of all rows
@@ -47,3 +47,4 @@ for book_key in book_data:
 table_query="SELECT * FROM book_store"
 data=pd.read_sql(table_query,dbase)
 data.to_csv("table3.csv",index=False)
+dbase.close()
