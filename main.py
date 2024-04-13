@@ -24,11 +24,12 @@ def insert_data_table(dbase,data):
 
 
 #enter query manullay
-input_query=[x for x in input(f"what is  your query: ")]
+input_query='+'.join(x for x in input(f"what is  your query: "))
 parameters=json.dumps(input_query)
 #database and api connections
 dbase=sqlite3.connect("database.db")
-r=requests.get("https://openlibrary.org/search.json?q=game+google",parameters)
+query="https://openlibrary.org/search.json?q="+input_query
+r=requests.get(query)
 data =r.json()
 mdata=json.dumps(data,indent=4)
 
