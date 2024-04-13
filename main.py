@@ -24,7 +24,7 @@ def insert_data_table(dbase,data):
 
 
 #enter query manullay
-input_query='+'.join(x for x in input(f"what is  your query: "))
+input_query='+'.join(x for x in input(f"what kinds of books you would like see :) : "))
 parameters=json.dumps(input_query)
 #database and api connections
 dbase=sqlite3.connect("database.db")
