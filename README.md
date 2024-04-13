@@ -1,6 +1,6 @@
 # BOOK_API_MODEL
 This is the Model that fetch Data from "https://openlibrary.org/search.json"
-and then ask for query in "input_query">>>>if you having any issue just try "game ggoogle" at once.
+and then ask for query in "input_query">>>>if you having any issue just try "game ggoogle" at once. (May be it take some time of 5 seconds to fetch)
 you can extract  data  from whatever coulumn you want >>>>It will be shown in csv file after the execution. 
 It create bar_chart for any column you want from entered at intial
 1.There is a file data_format - It contains how data is stored in JSON format in this perticular API.
